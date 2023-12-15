@@ -1,0 +1,3 @@
+C:/Users/uchia/Desktop/C++/c language/cmake-build-debug/CMakeFiles/c_language.dir
+C:/Users/uchia/Desktop/C++/c language/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uchia/Desktop/C++/c language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
